@@ -1,0 +1,10 @@
+name = "mlbbinfo2"
+account_id = "0e9d4d89e79759674c4b4bf64380fe78"
+workers_dev = true
+compatibility_date = "2025-08-12"
+
+main = "worker.js"
+
+kv_namespaces = [
+  { binding = "VALID_ACCOUNTS", id = "66403b5781584e0bb879f758fe77e8ff" }
+]
