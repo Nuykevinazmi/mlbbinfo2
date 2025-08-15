@@ -1,4 +1,4 @@
-const ALLOWED_ORIGIN = "https://cab6441c.mlbbpublic.pages.dev"; // Ganti dengan domain frontend kamu
+const ALLOWED_ORIGIN = "https://28b2d6a8.mlbbpublic.pages.dev"; // Ganti dengan domain frontend kamu
 
 export default {
   async fetch(request, env) {
